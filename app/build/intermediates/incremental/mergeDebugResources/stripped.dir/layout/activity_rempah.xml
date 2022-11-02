@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".rempahActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="@drawable/wallpaper">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="120dp"
+            android:layout_weight="2"
+            android:background="#F4EA8E">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="60dp"
+                android:layout_marginEnd="110dp"
+                android:layout_marginRight="130dp"
+                android:gravity="center"
+                android:text="REMPAH-REMPAH"
+                android:textSize="25dp"
+                android:textStyle="bold">
+            </TextView>
+        </RelativeLayout>
+        <GridLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:columnOrderPreserved="false"
+            android:alignmentMode="alignMargins"
+            android:rowCount="1"
+            android:columnCount="2"
+            android:layout_marginTop="17dp">
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/cardasamjawa"
+                app:cardBackgroundColor="#d5ecc2"
+                android:layout_height="130dp"
+                android:layout_width="100dp"
+                android:layout_columnWeight="1"
+                app:cardCornerRadius="12dp"
+                android:layout_rowWeight="1"
+                android:elevation="60dp"
+                android:layout_margin="12dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="140dp"
+                    android:orientation="vertical"
+                    android:padding="16dp"
+                    android:layout_gravity="center">
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="83dp"
+                        android:src="@drawable/asamjawa2" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:text="Asam Jawa"
+                        android:textSize="20dp"
+                        android:textStyle="bold"
+                        android:textColor="#ffffff"/>
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
+                android:id="@+id/cardcengkeh"
+                app:cardBackgroundColor="#d5ecc2"
+                android:layout_height="130dp"
+                android:layout_width="100dp"
+                android:layout_columnWeight="1"
+                app:cardCornerRadius="12dp"
+                android:layout_rowWeight="1"
+                android:elevation="60dp"
+                android:layout_margin="12dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="140dp"
+                    android:orientation="vertical"
+                    android:padding="16dp"
+                    android:layout_gravity="center">
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="83dp"
+                        android:src="@drawable/cengkeh" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:text="Cengkeh"
+                        android:textSize="20dp"
+                        android:textStyle="bold"
+                        android:textColor="#ffffff"/>
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
+                android:id="@+id/cardjahe"
+                app:cardBackgroundColor="#d5ecc2"
+                android:layout_height="130dp"
+                android:layout_width="100dp"
+                android:layout_columnWeight="1"
+                app:cardCornerRadius="12dp"
+                android:layout_rowWeight="1"
+                android:elevation="60dp"
+                android:layout_margin="12dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="140dp"
+                    android:orientation="vertical"
+                    android:padding="16dp"
+                    android:layout_gravity="center">
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="87dp"
+                        android:src="@drawable/jahe2" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:text="Jahe"
+                        android:textSize="20dp"
+                        android:textStyle="bold"
+                        android:textColor="#ffffff"/>
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
+                android:id="@+id/cardjintanhitam"
+                app:cardBackgroundColor="#d5ecc2"
+                android:layout_height="130dp"
+                android:layout_width="100dp"
+                android:layout_columnWeight="1"
+                app:cardCornerRadius="12dp"
+                android:layout_rowWeight="1"
+                android:elevation="60dp"
+                android:layout_margin="12dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="140dp"
+                    android:orientation="vertical"
+                    android:padding="16dp"
+                    android:layout_gravity="center">
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="83dp"
+                        android:src="@drawable/jintanhitam" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:text="Jintan Hitam"
+                        android:textSize="20dp"
+                        android:textStyle="bold"
+                        android:textColor="#ffffff"/>
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
+                android:id="@+id/cardkapulaga"
+                app:cardBackgroundColor="#d5ecc2"
+                android:layout_height="130dp"
+                android:layout_width="100dp"
+                android:layout_columnWeight="1"
+                app:cardCornerRadius="12dp"
+                android:layout_rowWeight="1"
+                android:elevation="60dp"
+                android:layout_margin="12dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="140dp"
+                    android:orientation="vertical"
+                    android:padding="16dp"
+                    android:layout_gravity="center">
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="83dp"
+                        android:src="@drawable/kapulaga2" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:text="Kapulaga"
+                        android:textSize="20dp"
+                        android:textStyle="bold"
+                        android:textColor="#ffffff"/>
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
+                android:id="@+id/cardkayumanis"
+                app:cardBackgroundColor="#d5ecc2"
+                android:layout_height="130dp"
+                android:layout_width="100dp"
+                android:layout_columnWeight="1"
+                app:cardCornerRadius="12dp"
+                android:layout_rowWeight="1"
+                android:elevation="60dp"
+                android:layout_margin="12dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="140dp"
+                    android:orientation="vertical"
+                    android:padding="16dp"
+                    android:layout_gravity="center">
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="83dp"
+                        android:src="@drawable/kayumanis" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:text="Kayu Manis"
+                        android:textSize="20dp"
+                        android:textStyle="bold"
+                        android:textColor="#ffffff"/>
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
+                android:id="@+id/cardkencur"
+                app:cardBackgroundColor="#d5ecc2"
+                android:layout_height="130dp"
+                android:layout_width="100dp"
+                android:layout_columnWeight="1"
+                app:cardCornerRadius="12dp"
+                android:layout_rowWeight="1"
+                android:elevation="60dp"
+                android:layout_margin="12dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="140dp"
+                    android:orientation="vertical"
+                    android:padding="16dp"
+                    android:layout_gravity="center">
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="83dp"
+                        android:src="@drawable/kencur2" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:text="Kencur"
+                        android:textSize="20dp"
+                        android:textStyle="bold"
+                        android:textColor="#ffffff"/>
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
+                android:id="@+id/cardkunyit"
+                app:cardBackgroundColor="#d5ecc2"
+                android:layout_height="130dp"
+                android:layout_width="100dp"
+                android:layout_columnWeight="1"
+                app:cardCornerRadius="12dp"
+                android:layout_rowWeight="1"
+                android:elevation="60dp"
+                android:layout_margin="12dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="140dp"
+                    android:orientation="vertical"
+                    android:padding="16dp"
+                    android:layout_gravity="center">
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="83dp"
+                        android:src="@drawable/kunyit2" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:text="Kunyit"
+                        android:textSize="20dp"
+                        android:textStyle="bold"
+                        android:textColor="#ffffff"/>
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
+                android:id="@+id/cardlengkuas"
+                app:cardBackgroundColor="#d5ecc2"
+                android:layout_height="130dp"
+                android:layout_width="100dp"
+                android:layout_columnWeight="1"
+                app:cardCornerRadius="12dp"
+                android:layout_rowWeight="1"
+                android:elevation="60dp"
+                android:layout_margin="12dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="140dp"
+                    android:orientation="vertical"
+                    android:padding="16dp"
+                    android:layout_gravity="center">
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="83dp"
+                        android:src="@drawable/lengkuas2" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:text="Lengkuas"
+                        android:textSize="20dp"
+                        android:textStyle="bold"
+                        android:textColor="#ffffff"/>
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
+                android:id="@+id/cardsecang"
+                app:cardBackgroundColor="#d5ecc2"
+                android:layout_height="130dp"
+                android:layout_width="100dp"
+                android:layout_columnWeight="1"
+                app:cardCornerRadius="12dp"
+                android:layout_rowWeight="1"
+                android:elevation="60dp"
+                android:layout_margin="12dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="140dp"
+                    android:orientation="vertical"
+                    android:padding="16dp"
+                    android:layout_gravity="center">
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="83dp"
+                        android:src="@drawable/secang2" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:text="Secang"
+                        android:textSize="20dp"
+                        android:textStyle="bold"
+                        android:textColor="#ffffff"/>
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
+                android:id="@+id/cardtemulawak"
+                app:cardBackgroundColor="#d5ecc2"
+                android:layout_height="130dp"
+                android:layout_width="100dp"
+                android:layout_columnWeight="1"
+                app:cardCornerRadius="12dp"
+                android:layout_rowWeight="1"
+                android:elevation="60dp"
+                android:layout_margin="12dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="140dp"
+                    android:orientation="vertical"
+                    android:padding="16dp"
+                    android:layout_gravity="center">
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="83dp"
+                        android:src="@drawable/temulawak2" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:text="Temulawak"
+                        android:textSize="20dp"
+                        android:textStyle="bold"
+                        android:textColor="#ffffff"/>
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+        </GridLayout>
+    </LinearLayout>
+
+</ScrollView>

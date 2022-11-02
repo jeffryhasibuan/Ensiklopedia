@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.ensik2">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Ensik2">
+        <activity
+            android:name=".daftartanamanActivity"
+            android:label="Ensiklopedia"
+            android:exported="false"/>
+        <activity
+            android:name=".ilerActivity"
+            android:exported="false" />
+        <activity
+            android:name=".genjerActivity"
+            android:exported="false" />
+        <activity
+            android:name=".gambirActivity"
+            android:exported="false" />
+        <activity
+            android:name=".enauActivity"
+            android:exported="false" />
+        <activity
+            android:name=".delimaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".daunsalamActivity"
+            android:exported="false" />
+        <activity
+            android:name=".daunencokActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ciplukanActivity"
+            android:exported="false" />
+        <activity
+            android:name=".cengkehActivity"
+            android:exported="false" />
+        <activity
+            android:name=".cempakaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".bandotanActivity"
+            android:exported="false" />
+        <activity
+            android:name=".bambutaliActivity"
+            android:exported="false" />
+        <activity
+            android:name=".bakungActivity"
+            android:exported="false" />
+        <activity
+            android:name=".asamjawaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".adasActivity"
+            android:exported="false" />
+        <activity
+            android:name=".adamhawaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".listActivity"
+            android:exported="false" />
+        <activity
+            android:name=".kubisActivity"
+            android:exported="false" />
+        <activity
+            android:name=".kelapaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".seledriActivity"
+            android:exported="false" />
+        <activity
+            android:name=".rimbangActivity"
+            android:exported="false" />
+        <activity
+            android:name=".lidahbuayaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".sirihActivity"
+            android:exported="false" />
+        <activity
+            android:name=".daunkelorActivity"
+            android:exported="false" />
+        <activity
+            android:name=".bungakenopActivity"
+            android:exported="false" />
+        <activity
+            android:name=".blustruActivity"
+            android:exported="false" />
+        <activity
+            android:name=".jeruknipisActivity"
+            android:exported="false" />
+        <activity
+            android:name=".pisangActivity"
+            android:exported="false" />
+        <activity
+            android:name=".pepayaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".mengkuduActivity"
+            android:exported="false" />
+        <activity
+            android:name=".jambubijiActivity"
+            android:exported="false" />
+        <activity
+            android:name=".temulawakActivity"
+            android:exported="false" />
+        <activity
+            android:name=".lengkuasActivity"
+            android:exported="false" />
+        <activity
+            android:name=".secangActivity"
+            android:exported="false" />
+        <activity
+            android:name=".kunyitActivity"
+            android:exported="false" />
+        <activity
+            android:name=".kencurActivity"
+            android:exported="false" />
+        <activity
+            android:name=".kayumanisActivity"
+            android:exported="false" />
+        <activity
+            android:name=".kapulagaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".jintanActivity"
+            android:exported="false" />
+        <activity
+            android:name=".belimbingActivity"
+            android:exported="false" />
+        <activity
+            android:name=".alpukatActivity"
+            android:exported="false" />
+        <activity
+            android:name=".bayamduriActivity"
+            android:exported="false" />
+        <activity
+            android:name=".infoaplikasiActivity"
+            android:exported="false" />
+        <activity
+            android:name=".sayurActivity"
+            android:exported="false" />
+        <activity
+            android:name=".rempahActivity"
+            android:exported="false" />
+        <activity
+            android:name=".jaheActivity"
+            android:exported="false" />
+        <activity
+            android:name=".buahActivity"
+            android:exported="false" />
+        <activity android:name=".kategoriActivity" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="8dp"
+    android:background="#959595">
+
+    <ImageView
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:id="@+id/imageList"
+        android:src="@drawable/sirih"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_marginLeft="8dp"
+        android:gravity="center|left"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/headline"
+            android:textSize="18sp"
+            android:text="Daun Sirih"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            android:textAppearance="@style/TextAppearance.AppCompat.Title"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/subheadline"
+            android:textColor="@color/Yellow"
+            android:textSize="16sp"
+            android:text="Piper betle, Linn"/>
+
+    </LinearLayout>
+
+
+
+</LinearLayout>

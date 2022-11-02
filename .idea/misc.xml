@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Ensik2/app/src/main/res/layout/activity_alpukat.xml" value="0.2" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Ensik2/app/src/main/res/layout/activity_buah.xml" value="0.2" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Ensik2/app/src/main/res/layout/activity_cengkeh.xml" value="0.2" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Ensik2/app/src/main/res/layout/activity_daftartanaman.xml" value="0.2" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Ensik2/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Ensik2/app/src/main/res/layout/activity_rempah.xml" value="0.2" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Ensik2/app/src/main/res/layout/activity_sayur.xml" value="0.2" />
+        <entry key="..\:/Users/Sry Ayuni Hasibuan/AndroidStudioProjects/Ensik2/app/src/main/res/drawable/costumebutton.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/Sry Ayuni Hasibuan/AndroidStudioProjects/Ensik2/app/src/main/res/drawable/costumebutton2.xml" value="0.21203703703703702" />
+        <entry key="..\:/Users/Sry Ayuni Hasibuan/AndroidStudioProjects/Ensik2/app/src/main/res/drawable/costumebutton3.xml" value="0.21203703703703702" />
+        <entry key="..\:/Users/Sry Ayuni Hasibuan/AndroidStudioProjects/Ensik2/app/src/main/res/drawable/custombutton.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/Sry Ayuni Hasibuan/AndroidStudioProjects/Ensik2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/Sry Ayuni Hasibuan/AndroidStudioProjects/Ensik2/app/src/main/res/drawable/ic_search.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/Sry Ayuni Hasibuan/AndroidStudioProjects/Ensik2/app/src/main/res/drawable/image_rounded.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/Sry Ayuni Hasibuan/AndroidStudioProjects/Ensik2/app/src/main/res/drawable/round_corner.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/Sry Ayuni Hasibuan/AndroidStudioProjects/Ensik2/app/src/main/res/layout/activity_adamhawa.xml" value="0.33" />
+        <entry key="..\:/Users/Sry Ayuni Hasibuan/AndroidStudioProjects/Ensik2/app/src/main/res/layout/activity_adas.xml" value="0.33" />
+        <entry key="..\:/Users/Sry Ayuni Hasibuan/AndroidStudioProjects/Ensik2/app/src/main/res/layout/activity_alpukat.xml" value="0.14891975308641975" />
+        <entry key="..\:/Users/Sry Ayuni Hasibuan/AndroidStudioProjects/Ensik2/app/src/main/res/layout/activity_asamjawa.xml" value="0.209375" />
+        <entry key="..\:/Users/Sry Ayuni Hasibuan/AndroidStudioProjects/Ensik2/app/src/main/res/layout/activity_bakung.xml" value="0.209375" />
+        <entry key="..\:/Users/Sry Ayuni Hasibuan/AndroidStudioProjects/Ensik2/app/src/main/res/layout/activity_bambutali.xml" value="0.33" />
+        <entry key="..\:/Users/Sry Ayuni Hasibuan/AndroidStudioProjects/Ensik2/app/src/main/res/layout/activity_bandotan.xml" value="0.209375" />
+        <entry key="..\:/Users/Sry Ayuni Hasibuan/AndroidStudioProjects/Ensik2/app/src/main/res/layout/activity_bayam.xml" value="0.1" />
+        <entry key="..\:/Users/Sry Ayuni Hasibuan/AndroidStudioProjects/Ensik2/app/src/main/res/layout/activity_bayamduri.xml" value="0.25" />
+        <entry key="..\:/Users/Sry Ayuni Hasibuan/AndroidStudioProjects/Ensik2/app/src/main/res/layout/activity_belimbing.xml" value="0.209375" />
+        <entry key="..\:/Users/Sry Ayuni Hasibuan/AndroidStudioProjects/Ensik2/app/src/main/res/layout/activity_blustru.xml" value="0.209375" />
+        <entry key="..\:/Users/Sry Ayuni Hasibuan/AndroidStudioProjects/Ensik2/app/src/main/res/layout/activity_buah.xml" value="0.25" />
+        <entry key="..\:/Users/Sry Ayuni Hasibuan/AndroidStudioProjects/Ensik2/app/src/main/res/layout/activity_bungakenop.xml" value="0.209375" />
+        <entry key="..\:/Users/Sry Ayuni Hasibuan/AndroidStudioProjects/Ensik2/app/src/main/res/layout/activity_card_sayur.xml" value="0.25" />
+        <entry key="..\:/Users/Sry Ayuni Hasibuan/AndroidStudioProjects/Ensik2/app/src/main/res/layout/activity_cempaka.xml" value="0.209375" />
+        <entry key="..\:/Users/Sry Ayuni Hasibuan/AndroidStudioProjects/Ensik2/app/src/main/res/layout/activity_cengkeh.xml" value="0.209375" />
+        <entry key="..\:/Users/Sry Ayuni Hasibuan/AndroidStudioProjects/Ensik2/app/src/main/res/layout/activity_ciplukan.xml" value="0.209375" />
+        <entry key="..\:/Users/Sry Ayuni Hasibuan/AndroidStudioProjects/Ensik2/app/src/main/res/layout/activity_daftar.xml" value="0.19537037037037036" />
+        <entry key="..\:/Users/Sry Ayuni Hasibuan/AndroidStudioProjects/Ensik2/app/src/main/res/layout/activity_daftartanaman.xml" value="0.1" />
+        <entry key="..\:/Users/Sry Ayuni Hasibuan/AndroidStudioProjects/Ensik2/app/src/main/res/layout/activity_daunencok.xml" value="0.209375" />
+        <entry key="..\:/Users/Sry Ayuni Hasibuan/AndroidStudioProjects/Ensik2/app/src/main/res/layout/activity_daunkelor.xml" value="0.29472140762463345" />
+        <entry key="..\:/Users/Sry Ayuni Hasibuan/AndroidStudioProjects/Ensik2/app/src/main/res/layout/activity_daunsalam.xml" value="0.1953125" />
+        <entry key="..\:/Users/Sry Ayuni Hasibuan/AndroidStudioProjects/Ensik2/app/src/main/res/layout/activity_delima.xml" value="0.25" />
+        <entry key="..\:/Users/Sry Ayuni Hasibuan/AndroidStudioProjects/Ensik2/app/src/main/res/layout/activity_enau.xml" value="0.209375" />
+        <entry key="..\:/Users/Sry Ayuni Hasibuan/AndroidStudioProjects/Ensik2/app/src/main/res/layout/activity_gambir.xml" value="0.209375" />
+        <entry key="..\:/Users/Sry Ayuni Hasibuan/AndroidStudioProjects/Ensik2/app/src/main/res/layout/activity_genjer.xml" value="0.209375" />
+        <entry key="..\:/Users/Sry Ayuni Hasibuan/AndroidStudioProjects/Ensik2/app/src/main/res/layout/activity_iler.xml" value="0.1953125" />
+        <entry key="..\:/Users/Sry Ayuni Hasibuan/AndroidStudioProjects/Ensik2/app/src/main/res/layout/activity_infoaplikasi.xml" value="0.25" />
+        <entry key="..\:/Users/Sry Ayuni Hasibuan/AndroidStudioProjects/Ensik2/app/src/main/res/layout/activity_jahe.xml" value="0.25" />
+        <entry key="..\:/Users/Sry Ayuni Hasibuan/AndroidStudioProjects/Ensik2/app/src/main/res/layout/activity_jambubiji.xml" value="0.2" />
+        <entry key="..\:/Users/Sry Ayuni Hasibuan/AndroidStudioProjects/Ensik2/app/src/main/res/layout/activity_jeruknipis.xml" value="0.25" />
+        <entry key="..\:/Users/Sry Ayuni Hasibuan/AndroidStudioProjects/Ensik2/app/src/main/res/layout/activity_jintan.xml" value="0.22" />
+        <entry key="..\:/Users/Sry Ayuni Hasibuan/AndroidStudioProjects/Ensik2/app/src/main/res/layout/activity_kapulaga.xml" value="0.209375" />
+        <entry key="..\:/Users/Sry Ayuni Hasibuan/AndroidStudioProjects/Ensik2/app/src/main/res/layout/activity_kategori.xml" value="0.25" />
+        <entry key="..\:/Users/Sry Ayuni Hasibuan/AndroidStudioProjects/Ensik2/app/src/main/res/layout/activity_kayumanis.xml" value="0.33" />
+        <entry key="..\:/Users/Sry Ayuni Hasibuan/AndroidStudioProjects/Ensik2/app/src/main/res/layout/activity_kelapa.xml" value="0.26257348138471587" />
+        <entry key="..\:/Users/Sry Ayuni Hasibuan/AndroidStudioProjects/Ensik2/app/src/main/res/layout/activity_kencur.xml" value="0.3057034220532319" />
+        <entry key="..\:/Users/Sry Ayuni Hasibuan/AndroidStudioProjects/Ensik2/app/src/main/res/layout/activity_khasiat.xml" value="0.25" />
+        <entry key="..\:/Users/Sry Ayuni Hasibuan/AndroidStudioProjects/Ensik2/app/src/main/res/layout/activity_kubis.xml" value="0.3080459770114943" />
+        <entry key="..\:/Users/Sry Ayuni Hasibuan/AndroidStudioProjects/Ensik2/app/src/main/res/layout/activity_kunyit.xml" value="0.23563892145369286" />
+        <entry key="..\:/Users/Sry Ayuni Hasibuan/AndroidStudioProjects/Ensik2/app/src/main/res/layout/activity_lengkuas.xml" value="0.30923076923076925" />
+        <entry key="..\:/Users/Sry Ayuni Hasibuan/AndroidStudioProjects/Ensik2/app/src/main/res/layout/activity_lidahbuaya.xml" value="0.25" />
+        <entry key="..\:/Users/Sry Ayuni Hasibuan/AndroidStudioProjects/Ensik2/app/src/main/res/layout/activity_list.xml" value="0.18055555555555555" />
+        <entry key="..\:/Users/Sry Ayuni Hasibuan/AndroidStudioProjects/Ensik2/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Sry Ayuni Hasibuan/AndroidStudioProjects/Ensik2/app/src/main/res/layout/activity_mengkudu.xml" value="0.33" />
+        <entry key="..\:/Users/Sry Ayuni Hasibuan/AndroidStudioProjects/Ensik2/app/src/main/res/layout/activity_pepaya.xml" value="0.18935468676401318" />
+        <entry key="..\:/Users/Sry Ayuni Hasibuan/AndroidStudioProjects/Ensik2/app/src/main/res/layout/activity_pisang.xml" value="0.30663615560640733" />
+        <entry key="..\:/Users/Sry Ayuni Hasibuan/AndroidStudioProjects/Ensik2/app/src/main/res/layout/activity_rempah.xml" value="0.25" />
+        <entry key="..\:/Users/Sry Ayuni Hasibuan/AndroidStudioProjects/Ensik2/app/src/main/res/layout/activity_rimbang.xml" value="0.26366120218579236" />
+        <entry key="..\:/Users/Sry Ayuni Hasibuan/AndroidStudioProjects/Ensik2/app/src/main/res/layout/activity_sayur.xml" value="0.25" />
+        <entry key="..\:/Users/Sry Ayuni Hasibuan/AndroidStudioProjects/Ensik2/app/src/main/res/layout/activity_secang.xml" value="0.33" />
+        <entry key="..\:/Users/Sry Ayuni Hasibuan/AndroidStudioProjects/Ensik2/app/src/main/res/layout/activity_seledri.xml" value="0.25" />
+        <entry key="..\:/Users/Sry Ayuni Hasibuan/AndroidStudioProjects/Ensik2/app/src/main/res/layout/activity_sirih.xml" value="0.25" />
+        <entry key="..\:/Users/Sry Ayuni Hasibuan/AndroidStudioProjects/Ensik2/app/src/main/res/layout/activity_temulawak.xml" value="0.22" />
+        <entry key="..\:/Users/Sry Ayuni Hasibuan/AndroidStudioProjects/Ensik2/app/src/main/res/layout/kategori.xml" value="0.1" />
+        <entry key="..\:/Users/Sry Ayuni Hasibuan/AndroidStudioProjects/Ensik2/app/src/main/res/layout/list_item.xml" value="0.33" />
+        <entry key="..\:/Users/Sry Ayuni Hasibuan/AndroidStudioProjects/Ensik2/app/src/main/res/menu/menu_daftar.xml" value="0.209375" />
+        <entry key="..\:/Users/Sry Ayuni Hasibuan/AndroidStudioProjects/Ensik2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.22552083333333334" />
+        <entry key="app/src/main/res/drawable/bg_input.xml" value="0.27395833333333336" />
+        <entry key="app/src/main/res/layout/activity_buah.xml" value="0.2578125" />
+        <entry key="app/src/main/res/layout/activity_ciplukan.xml" value="0.2578125" />
+        <entry key="app/src/main/res/layout/activity_daftartanaman.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/activity_daunencok.xml" value="0.2578125" />
+        <entry key="app/src/main/res/layout/activity_infoaplikasi.xml" value="0.2578125" />
+        <entry key="app/src/main/res/layout/activity_kategori.xml" value="0.2578125" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2578125" />
+        <entry key="app/src/main/res/layout/activity_rempah.xml" value="0.2578125" />
+        <entry key="app/src/main/res/layout/activity_sayur.xml" value="0.2578125" />
+        <entry key="app/src/main/res/layout/tanaman1_item_layout.xml" value="0.2578125" />
+        <entry key="app/src/main/res/layout/tanaman_item_layout.xml" value="0.2578125" />
+      </map>
+    </option>
+  </component>
+  <component name="JavadocGenerationManager">
+    <option name="OUTPUT_DIRECTORY" value="D:/AndroidStudioProjects" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

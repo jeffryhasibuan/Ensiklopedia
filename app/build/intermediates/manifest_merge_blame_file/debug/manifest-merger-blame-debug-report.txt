@@ -1,0 +1,368 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.ensik2"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:5:5-67
+11-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:5:22-64
+12
+13    <application
+13-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:7:5-169:19
+14        android:allowBackup="true"
+14-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:8:9-35
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.7.0] C:\Android\caches\transforms-3\21249a56641fb0309777a5ae16ce99ff\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+16        android:debuggable="true"
+17        android:icon="@mipmap/ic_launcher"
+17-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:9:9-43
+18        android:label="@string/app_name"
+18-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:10:9-41
+19        android:roundIcon="@mipmap/ic_launcher_round"
+19-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:11:9-54
+20        android:supportsRtl="true"
+20-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:12:9-35
+21        android:theme="@style/Theme.Ensik2" >
+21-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:13:9-44
+22        <activity
+22-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:14:9-17:39
+23            android:name="com.example.ensik2.daftartanamanActivity"
+23-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:15:13-50
+24            android:exported="false"
+24-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:17:13-37
+25            android:label="Ensiklopedia" />
+25-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:16:13-41
+26        <activity
+26-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:18:9-20:40
+27            android:name="com.example.ensik2.ilerActivity"
+27-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:19:13-41
+28            android:exported="false" />
+28-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:20:13-37
+29        <activity
+29-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:21:9-23:40
+30            android:name="com.example.ensik2.genjerActivity"
+30-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:22:13-43
+31            android:exported="false" />
+31-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:23:13-37
+32        <activity
+32-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:24:9-26:40
+33            android:name="com.example.ensik2.gambirActivity"
+33-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:25:13-43
+34            android:exported="false" />
+34-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:26:13-37
+35        <activity
+35-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:27:9-29:40
+36            android:name="com.example.ensik2.enauActivity"
+36-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:28:13-41
+37            android:exported="false" />
+37-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:29:13-37
+38        <activity
+38-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:30:9-32:40
+39            android:name="com.example.ensik2.delimaActivity"
+39-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:31:13-43
+40            android:exported="false" />
+40-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:32:13-37
+41        <activity
+41-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:33:9-35:40
+42            android:name="com.example.ensik2.daunsalamActivity"
+42-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:34:13-46
+43            android:exported="false" />
+43-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:35:13-37
+44        <activity
+44-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:36:9-38:40
+45            android:name="com.example.ensik2.daunencokActivity"
+45-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:37:13-46
+46            android:exported="false" />
+46-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:38:13-37
+47        <activity
+47-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:39:9-41:40
+48            android:name="com.example.ensik2.ciplukanActivity"
+48-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:40:13-45
+49            android:exported="false" />
+49-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:41:13-37
+50        <activity
+50-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:42:9-44:40
+51            android:name="com.example.ensik2.cengkehActivity"
+51-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:43:13-44
+52            android:exported="false" />
+52-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:44:13-37
+53        <activity
+53-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:45:9-47:40
+54            android:name="com.example.ensik2.cempakaActivity"
+54-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:46:13-44
+55            android:exported="false" />
+55-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:47:13-37
+56        <activity
+56-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:48:9-50:40
+57            android:name="com.example.ensik2.bandotanActivity"
+57-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:49:13-45
+58            android:exported="false" />
+58-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:50:13-37
+59        <activity
+59-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:51:9-53:40
+60            android:name="com.example.ensik2.bambutaliActivity"
+60-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:52:13-46
+61            android:exported="false" />
+61-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:53:13-37
+62        <activity
+62-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:54:9-56:40
+63            android:name="com.example.ensik2.bakungActivity"
+63-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:55:13-43
+64            android:exported="false" />
+64-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:56:13-37
+65        <activity
+65-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:57:9-59:40
+66            android:name="com.example.ensik2.asamjawaActivity"
+66-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:58:13-45
+67            android:exported="false" />
+67-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:59:13-37
+68        <activity
+68-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:60:9-62:40
+69            android:name="com.example.ensik2.adasActivity"
+69-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:61:13-41
+70            android:exported="false" />
+70-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:62:13-37
+71        <activity
+71-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:63:9-65:40
+72            android:name="com.example.ensik2.adamhawaActivity"
+72-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:64:13-45
+73            android:exported="false" />
+73-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:65:13-37
+74        <activity
+74-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:66:9-68:40
+75            android:name="com.example.ensik2.listActivity"
+75-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:67:13-41
+76            android:exported="false" />
+76-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:68:13-37
+77        <activity
+77-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:69:9-71:40
+78            android:name="com.example.ensik2.kubisActivity"
+78-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:70:13-42
+79            android:exported="false" />
+79-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:71:13-37
+80        <activity
+80-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:72:9-74:40
+81            android:name="com.example.ensik2.kelapaActivity"
+81-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:73:13-43
+82            android:exported="false" />
+82-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:74:13-37
+83        <activity
+83-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:75:9-77:40
+84            android:name="com.example.ensik2.seledriActivity"
+84-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:76:13-44
+85            android:exported="false" />
+85-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:77:13-37
+86        <activity
+86-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:78:9-80:40
+87            android:name="com.example.ensik2.rimbangActivity"
+87-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:79:13-44
+88            android:exported="false" />
+88-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:80:13-37
+89        <activity
+89-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:81:9-83:40
+90            android:name="com.example.ensik2.lidahbuayaActivity"
+90-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:82:13-47
+91            android:exported="false" />
+91-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:83:13-37
+92        <activity
+92-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:84:9-86:40
+93            android:name="com.example.ensik2.sirihActivity"
+93-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:85:13-42
+94            android:exported="false" />
+94-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:86:13-37
+95        <activity
+95-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:87:9-89:40
+96            android:name="com.example.ensik2.daunkelorActivity"
+96-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:88:13-46
+97            android:exported="false" />
+97-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:89:13-37
+98        <activity
+98-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:90:9-92:40
+99            android:name="com.example.ensik2.bungakenopActivity"
+99-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:91:13-47
+100            android:exported="false" />
+100-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:92:13-37
+101        <activity
+101-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:93:9-95:40
+102            android:name="com.example.ensik2.blustruActivity"
+102-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:94:13-44
+103            android:exported="false" />
+103-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:95:13-37
+104        <activity
+104-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:96:9-98:40
+105            android:name="com.example.ensik2.jeruknipisActivity"
+105-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:97:13-47
+106            android:exported="false" />
+106-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:98:13-37
+107        <activity
+107-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:99:9-101:40
+108            android:name="com.example.ensik2.pisangActivity"
+108-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:100:13-43
+109            android:exported="false" />
+109-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:101:13-37
+110        <activity
+110-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:102:9-104:40
+111            android:name="com.example.ensik2.pepayaActivity"
+111-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:103:13-43
+112            android:exported="false" />
+112-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:104:13-37
+113        <activity
+113-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:105:9-107:40
+114            android:name="com.example.ensik2.mengkuduActivity"
+114-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:106:13-45
+115            android:exported="false" />
+115-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:107:13-37
+116        <activity
+116-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:108:9-110:40
+117            android:name="com.example.ensik2.jambubijiActivity"
+117-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:109:13-46
+118            android:exported="false" />
+118-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:110:13-37
+119        <activity
+119-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:111:9-113:40
+120            android:name="com.example.ensik2.temulawakActivity"
+120-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:112:13-46
+121            android:exported="false" />
+121-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:113:13-37
+122        <activity
+122-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:114:9-116:40
+123            android:name="com.example.ensik2.lengkuasActivity"
+123-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:115:13-45
+124            android:exported="false" />
+124-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:116:13-37
+125        <activity
+125-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:117:9-119:40
+126            android:name="com.example.ensik2.secangActivity"
+126-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:118:13-43
+127            android:exported="false" />
+127-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:119:13-37
+128        <activity
+128-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:120:9-122:40
+129            android:name="com.example.ensik2.kunyitActivity"
+129-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:121:13-43
+130            android:exported="false" />
+130-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:122:13-37
+131        <activity
+131-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:123:9-125:40
+132            android:name="com.example.ensik2.kencurActivity"
+132-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:124:13-43
+133            android:exported="false" />
+133-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:125:13-37
+134        <activity
+134-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:126:9-128:40
+135            android:name="com.example.ensik2.kayumanisActivity"
+135-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:127:13-46
+136            android:exported="false" />
+136-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:128:13-37
+137        <activity
+137-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:129:9-131:40
+138            android:name="com.example.ensik2.kapulagaActivity"
+138-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:130:13-45
+139            android:exported="false" />
+139-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:131:13-37
+140        <activity
+140-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:132:9-134:40
+141            android:name="com.example.ensik2.jintanActivity"
+141-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:133:13-43
+142            android:exported="false" />
+142-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:134:13-37
+143        <activity
+143-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:135:9-137:40
+144            android:name="com.example.ensik2.belimbingActivity"
+144-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:136:13-46
+145            android:exported="false" />
+145-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:137:13-37
+146        <activity
+146-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:138:9-140:40
+147            android:name="com.example.ensik2.alpukatActivity"
+147-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:139:13-44
+148            android:exported="false" />
+148-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:140:13-37
+149        <activity
+149-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:141:9-143:40
+150            android:name="com.example.ensik2.bayamduriActivity"
+150-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:142:13-46
+151            android:exported="false" />
+151-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:143:13-37
+152        <activity
+152-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:144:9-146:40
+153            android:name="com.example.ensik2.infoaplikasiActivity"
+153-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:145:13-49
+154            android:exported="false" />
+154-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:146:13-37
+155        <activity
+155-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:147:9-149:40
+156            android:name="com.example.ensik2.sayurActivity"
+156-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:148:13-42
+157            android:exported="false" />
+157-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:149:13-37
+158        <activity
+158-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:150:9-152:40
+159            android:name="com.example.ensik2.rempahActivity"
+159-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:151:13-43
+160            android:exported="false" />
+160-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:152:13-37
+161        <activity
+161-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:153:9-155:40
+162            android:name="com.example.ensik2.jaheActivity"
+162-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:154:13-41
+163            android:exported="false" />
+163-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:155:13-37
+164        <activity
+164-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:156:9-158:40
+165            android:name="com.example.ensik2.buahActivity"
+165-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:157:13-41
+166            android:exported="false" />
+166-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:158:13-37
+167        <activity android:name="com.example.ensik2.kategoriActivity" />
+167-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:159:9-54
+167-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:159:19-51
+168        <activity
+168-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:160:9-168:20
+169            android:name="com.example.ensik2.MainActivity"
+169-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:161:13-41
+170            android:exported="true" >
+170-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:162:13-36
+171            <intent-filter>
+171-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:163:13-167:29
+172                <action android:name="android.intent.action.MAIN" />
+172-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:164:17-69
+172-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:164:25-66
+173
+174                <category android:name="android.intent.category.LAUNCHER" />
+174-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:166:17-77
+174-->D:\Ensik2 FIx\Ensik2\app\src\main\AndroidManifest.xml:166:27-74
+175            </intent-filter>
+176        </activity>
+177
+178        <provider
+178-->[androidx.emoji2:emoji2:1.0.0] C:\Android\caches\transforms-3\beb1e8c1d1724370afa1be71eb324942\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+179            android:name="androidx.startup.InitializationProvider"
+179-->[androidx.emoji2:emoji2:1.0.0] C:\Android\caches\transforms-3\beb1e8c1d1724370afa1be71eb324942\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+180            android:authorities="com.example.ensik2.androidx-startup"
+180-->[androidx.emoji2:emoji2:1.0.0] C:\Android\caches\transforms-3\beb1e8c1d1724370afa1be71eb324942\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+181            android:exported="false" >
+181-->[androidx.emoji2:emoji2:1.0.0] C:\Android\caches\transforms-3\beb1e8c1d1724370afa1be71eb324942\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+182            <meta-data
+182-->[androidx.emoji2:emoji2:1.0.0] C:\Android\caches\transforms-3\beb1e8c1d1724370afa1be71eb324942\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+183                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+183-->[androidx.emoji2:emoji2:1.0.0] C:\Android\caches\transforms-3\beb1e8c1d1724370afa1be71eb324942\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+184                android:value="androidx.startup" />
+184-->[androidx.emoji2:emoji2:1.0.0] C:\Android\caches\transforms-3\beb1e8c1d1724370afa1be71eb324942\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+185            <meta-data
+185-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Android\caches\transforms-3\4d87c3e3b70abeed5e61faf08f3b9b5b\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+186                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+186-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Android\caches\transforms-3\4d87c3e3b70abeed5e61faf08f3b9b5b\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+187                android:value="androidx.startup" />
+187-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Android\caches\transforms-3\4d87c3e3b70abeed5e61faf08f3b9b5b\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+188        </provider>
+189    </application>
+190
+191</manifest>

@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.ensik2"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="32" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Ensik2" >
+        <activity
+            android:name="com.example.ensik2.daftartanamanActivity"
+            android:exported="false"
+            android:label="Ensiklopedia" />
+        <activity
+            android:name="com.example.ensik2.ilerActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.ensik2.genjerActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.ensik2.gambirActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.ensik2.enauActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.ensik2.delimaActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.ensik2.daunsalamActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.ensik2.daunencokActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.ensik2.ciplukanActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.ensik2.cengkehActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.ensik2.cempakaActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.ensik2.bandotanActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.ensik2.bambutaliActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.ensik2.bakungActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.ensik2.asamjawaActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.ensik2.adasActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.ensik2.adamhawaActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.ensik2.listActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.ensik2.kubisActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.ensik2.kelapaActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.ensik2.seledriActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.ensik2.rimbangActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.ensik2.lidahbuayaActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.ensik2.sirihActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.ensik2.daunkelorActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.ensik2.bungakenopActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.ensik2.blustruActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.ensik2.jeruknipisActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.ensik2.pisangActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.ensik2.pepayaActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.ensik2.mengkuduActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.ensik2.jambubijiActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.ensik2.temulawakActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.ensik2.lengkuasActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.ensik2.secangActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.ensik2.kunyitActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.ensik2.kencurActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.ensik2.kayumanisActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.ensik2.kapulagaActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.ensik2.jintanActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.ensik2.belimbingActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.ensik2.alpukatActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.ensik2.bayamduriActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.ensik2.infoaplikasiActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.ensik2.sayurActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.ensik2.rempahActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.ensik2.jaheActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.ensik2.buahActivity"
+            android:exported="false" />
+        <activity android:name="com.example.ensik2.kategoriActivity" />
+        <activity
+            android:name="com.example.ensik2.MainActivity"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <provider
+            android:name="androidx.startup.InitializationProvider"
+            android:authorities="com.example.ensik2.androidx-startup"
+            android:exported="false" >
+            <meta-data
+                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+                android:value="androidx.startup" />
+            <meta-data
+                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+                android:value="androidx.startup" />
+        </provider>
+    </application>
+
+</manifest>
